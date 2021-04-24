@@ -1,0 +1,10 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "UdagramProject"
+    },
+    {
+        "ParameterKey": "S3BuketName",
+        "ParameterValue": "udagram-020065451261"
+    }
+]
